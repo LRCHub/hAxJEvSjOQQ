@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "走馬灯 (prototype)",
+  "base_artist": "Aliey:S",
+  "createdAt": "2025-12-15T19:49:41.625733Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "走馬灯",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/01_走馬灯_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "走馬灯",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/02_走馬灯_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "走馬灯",
+      "artist": "SID",
+      "has_synced": false,
+      "path": "select/03_走馬灯_SID.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "走馬灯－The Last Song－",
+      "artist": "TAKA",
+      "has_synced": false,
+      "path": "select/04_走馬灯-The_Last_Song-_TAKA.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "走馬灯 -The Last Song-",
+      "artist": "dj TAKA",
+      "has_synced": false,
+      "path": "select/05_走馬灯_-The_Last_Song-_dj_TAKA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "走馬灯 (feat. ろ灯)",
+      "artist": "Aliey:S",
+      "has_synced": false,
+      "path": "select/pl_01_走馬灯_(feat._ろ灯)_Aliey_S.txt"
+    }
+  ]
+}
